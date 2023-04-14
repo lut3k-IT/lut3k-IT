@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="assets/logo.png" width="200"/>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=lut3k-IT&show_icons=true&theme=github_dark_dimmed" width="500"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lut3k-IT&theme=github_dark_dimmed" width="340"/><br>
+
 
 <!--
 **lut3k-IT/lut3k-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
