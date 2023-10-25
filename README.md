@@ -2,8 +2,9 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lut3k-IT&show_icons=true&theme=github_dark_dimmed" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lut3k-IT&theme=github_dark_dimmed&layout=compact" width="260"/>
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=lut3k-IT&show_icons=true&theme=github_dark_dimmed" width="400"/>-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lut3k-IT&theme=github_dark_dimmed&layout=compact" width="300"/>
 
 
 <!--
